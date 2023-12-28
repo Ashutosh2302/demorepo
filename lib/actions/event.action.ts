@@ -1,3 +1,5 @@
+"use server";
+
 import { connectToDatabase } from "../database";
 import Event from "../database/models/event.model";
 
